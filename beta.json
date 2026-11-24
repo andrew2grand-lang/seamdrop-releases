@@ -1,0 +1,31 @@
+{
+  "version": "0.5.0-beta.1",
+  "notes": "A test build. Update all your computers: 0.5 can't talk to 0.3. Pair by typing a code, send to several computers at once, and keep text on the Shelf, shared with the computers you choose. Transfers pause within seconds when a computer goes away, and continue by themselves when it's back.",
+  "pub_date": "2026-11-24T10:17:37Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEQraUVsdjQ5NXZ3czFxY1dTdjZJMjJINk9DMXp2M3hHUVhlWVZieGplRklEWlE2QTFKOWo2RjVHK2hoc1ptK0dMbW9iRFAzN2EzcWh6ZU1xWVNGOWFySlU5YndkdGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE1MjkyCWZpbGU6U2VhbURyb3AuYXBwLnRhci5negl2ZXJzaW9uOjAuNS4wLWJldGEuMQpYY0YwOWhkYmlvdXl3M09jcHRmcTNnUE9GSGdmNXF1bXVxU25BWkdnZEZIR0txQnpqM1NOVzlodmJiRFZkQ2FydDJ2bUREOURjNFI2aVdBaGVnbGFEdz09Cg==",
+      "url": "https://github.com/andrew2grand-lang/seamdrop-releases/releases/download/v0.5.0-beta.1/SeamDrop_0.5.0-beta.1_universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEQraUVsdjQ5NXZ3czFxY1dTdjZJMjJINk9DMXp2M3hHUVhlWVZieGplRklEWlE2QTFKOWo2RjVHK2hoc1ptK0dMbW9iRFAzN2EzcWh6ZU1xWVNGOWFySlU5YndkdGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE1MjkyCWZpbGU6U2VhbURyb3AuYXBwLnRhci5negl2ZXJzaW9uOjAuNS4wLWJldGEuMQpYY0YwOWhkYmlvdXl3M09jcHRmcTNnUE9GSGdmNXF1bXVxU25BWkdnZEZIR0txQnpqM1NOVzlodmJiRFZkQ2FydDJ2bUREOURjNFI2aVdBaGVnbGFEdz09Cg==",
+      "url": "https://github.com/andrew2grand-lang/seamdrop-releases/releases/download/v0.5.0-beta.1/SeamDrop_0.5.0-beta.1_universal.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEQraUVsdjQ5NXZ3czFxY1dTdjZJMjJINk9DMXp2M3hHUVhlWVZieGplRklEWlE2QTFKOWo2RjVHK2hoc1ptK0dMbW9iRFAzN2EzcWh6ZU1xWVNGOWFySlU5YndkdGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE1MjkyCWZpbGU6U2VhbURyb3AuYXBwLnRhci5negl2ZXJzaW9uOjAuNS4wLWJldGEuMQpYY0YwOWhkYmlvdXl3M09jcHRmcTNnUE9GSGdmNXF1bXVxU25BWkdnZEZIR0txQnpqM1NOVzlodmJiRFZkQ2FydDJ2bUREOURjNFI2aVdBaGVnbGFEdz09Cg==",
+      "url": "https://github.com/andrew2grand-lang/seamdrop-releases/releases/download/v0.5.0-beta.1/SeamDrop_0.5.0-beta.1_universal.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEQraUVsdjQ5NXZ3czFxY1dTdjZJMjJINk9DMXp2M3hHUVhlWVZieGplRklEWlE2QTFKOWo2RjVHK2hoc1ptK0dMbW9iRFAzN2EzcWh6ZU1xWVNGOWFySlU5YndkdGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE1MjkyCWZpbGU6U2VhbURyb3AuYXBwLnRhci5negl2ZXJzaW9uOjAuNS4wLWJldGEuMQpYY0YwOWhkYmlvdXl3M09jcHRmcTNnUE9GSGdmNXF1bXVxU25BWkdnZEZIR0txQnpqM1NOVzlodmJiRFZkQ2FydDJ2bUREOURjNFI2aVdBaGVnbGFEdz09Cg==",
+      "url": "https://github.com/andrew2grand-lang/seamdrop-releases/releases/download/v0.5.0-beta.1/SeamDrop_0.5.0-beta.1_universal.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEQraUVsdjQ5NWt5WTZ3VkttNU9QcTlPUGhmb0U3OFhYdHhXUnJHQ01kdmpBWU1MWkxzY2tQWHg3YTdnV3g1WTJ4NWZJWERCWnVybUJtczJaVlpXbXNuVncrTExsMVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE1MDA4CWZpbGU6U2VhbURyb3BfMC41LjAtYmV0YS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMC1iZXRhLjEKTU9KMkVRejV6MVIrdGNZcU5qWjdTYkF6RWtHMjFsQnNyNlkwU2lsdXpuSHYvWEprZWpWRTA1d2MyMStaL2lCNmpHemRCOExyOFVwcnRHcVBIc1VMQlE9PQo=",
+      "url": "https://github.com/andrew2grand-lang/seamdrop-releases/releases/download/v0.5.0-beta.1/SeamDrop_0.5.0-beta.1_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUTEQraUVsdjQ5NWt5WTZ3VkttNU9QcTlPUGhmb0U3OFhYdHhXUnJHQ01kdmpBWU1MWkxzY2tQWHg3YTdnV3g1WTJ4NWZJWERCWnVybUJtczJaVlpXbXNuVncrTExsMVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NTE1MDA4CWZpbGU6U2VhbURyb3BfMC41LjAtYmV0YS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMC1iZXRhLjEKTU9KMkVRejV6MVIrdGNZcU5qWjdTYkF6RWtHMjFsQnNyNlkwU2lsdXpuSHYvWEprZWpWRTA1d2MyMStaL2lCNmpHemRCOExyOFVwcnRHcVBIc1VMQlE9PQo=",
+      "url": "https://github.com/andrew2grand-lang/seamdrop-releases/releases/download/v0.5.0-beta.1/SeamDrop_0.5.0-beta.1_x64-setup.exe"
+    }
+  }
+}
